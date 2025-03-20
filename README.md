@@ -1,3 +1,13 @@
+#In this appllication i use the pokemon api keys beside that i create a button of newbattle 
+By clicking new battle it choose random 2 pokemon cards and check the hp score of both cards and by comparing them it shows the winner like ABC wins with 50 HP!
+THis program firstly choose two random cards and compare thier hp score and declare a winner which is shows as a sentence by using P tag. 
+card1 = cards[random.nextInt(cards.length)];
+            card2 = cards[random.nextInt(cards.length)];         these are use to select two random pokemon cards
+            
+  
+
+
+
 # flutter_application_1
 
 A new Flutter project.
